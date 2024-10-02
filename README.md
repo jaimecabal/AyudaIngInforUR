@@ -10,6 +10,7 @@ También hay varios _disclaimers_:
 * Mi nota de media era un 6.4. No era el mejor de clase y muchas asignaturas las saqué en extraordinaria.
 * Estos apuntes se entregan tal cual acabé la asignatura, habrá cosas que estén completas y otras que hayan quedado a medias.
 * Si quereis añadir contenido se puede hacer mediante _pull requests_
+* Soy un estudiante que entró a la carrera desde grado superior, por lo que las asignaturas de Redes de Computadores, Sistemas Informáticos, Sistemas Operativos y Empresa no las cursé y el contenido (si es que existe) no es mío.
 
 Suerte.
 
